@@ -23,13 +23,8 @@
 npm install
 npm run dev
 
-<img width="1429" height="905" alt="image" src="https://github.com/user-attachments/assets/6af48fc6-92e8-45e6-8af1-a09556d8a2aa" />
+![Главный экран](photo_1_2026-06-10_00-26-43.jpg)
 
-<img width="1425" height="901" alt="image" src="https://github.com/user-attachments/assets/abfa556a-5542-4802-b2b8-1d891c13257d" />
-
-<img width="1424" height="899" alt="image" src="https://github.com/user-attachments/assets/ab940f8f-1dbb-4136-9b48-e16807d599f9" />
-
-<img width="1426" height="907" alt="image" src="https://github.com/user-attachments/assets/4670225a-d1f0-42d8-bd91-e1287b37ab28" />
 
 Как ИИ помог в разработке
 Задание выполнено с активным использованием ИИ-ассистента (ChatGPT/DeepSeek).
