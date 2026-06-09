@@ -23,7 +23,7 @@
 npm install
 npm run dev
 
-![Главный экран](photo_1_2026-06-10_00-26-43.jpg)
+![image](https://user-images.githubusercontent.com/photo_1_2026-06-10_00-26-43.jpg)
 
 
 Как ИИ помог в разработке
